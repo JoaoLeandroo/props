@@ -1,0 +1,11 @@
+
+section {
+    width: 320px;
+    height: 220px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.877);
+    background-color: gray;
+    border-radius: 4px;
+    text-align: center;
+    color: #fff;
+}
